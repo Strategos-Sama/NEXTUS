@@ -8,4 +8,4 @@ Based on the book Violent Python
 
 Strategos - Saikono
 
-#pastebin
+'#pastebin'

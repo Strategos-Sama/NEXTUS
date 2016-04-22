@@ -1,11 +1,9 @@
 # NEXTUS
 
-A port scanning python script!
+A port scanning python script! -Based on the book Violent Python
 
 Want documentation? Look at the code... it is commented :P
 
-Based on the book Violent Python
+Strategos_Sama - 「Sai・ko・no」
 
-Strategos - Saikono
-
-'#pastebin'
+・#pastebin・

@@ -12,8 +12,6 @@ print("""Welcome to:
  |_| \_| |______| /_/ \_\    |_|     \____/  |_____/    V.3
  
 By: STATEGOS_SAMA - SAIKONO.ORG
-
--- Enter a command - type help for a list of commands.
 """)
 
 def getBanner(ip, port):
